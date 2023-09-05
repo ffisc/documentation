@@ -32,7 +32,7 @@ further_reading:
 
 The APM UI provides many tools to troubleshoot application performance and correlate it throughout the product, enabling you to find and resolve issues in distributed systems.
 
-For additional definitions and descriptions of important APM terms such as _spans_ and _indexed_, see the [main Glossary][22]. 
+For additional definitions and descriptions of important APM terms such as _spans_ and _indexes_, see the [main Glossary][22]. 
 
 | Concept                         | Description                                                                                                                                                                                                          |
 |---------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
